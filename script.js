@@ -1,6 +1,3 @@
-// const BASE_URL = "https://www.googleapis.com/youtube/v3";
-// const API_KEY = "AIzaSyD2TpjSJShlbx6JXWuY-WGe97WrKHdMFW0";
-// AIzaSyB74MZKTt9nJ - A93_0eg_iZy4JUXL_yJdA;
 const videoCardContainer = document.querySelector(".video-section");
 let api_key = "AIzaSyB74MZKTt9nJ-A93_0eg_iZy4JUXL_yJdA";
 let video_http = "https://www.googleapis.com/youtube/v3/videos?";
